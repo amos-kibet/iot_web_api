@@ -1,0 +1,30 @@
+{
+  "name": "web-api",
+  "private": true,
+  "version": "0.1.0",
+  "description": "IoTCE Web CMS API",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@strapi/strapi": "4.3.6",
+    "@strapi/plugin-users-permissions": "4.3.6",
+    "@strapi/plugin-i18n": "4.3.6",
+    "pg": "8.6.0"
+  },
+  "author": {
+    "name": "Amos Kibet"
+  },
+  "strapi": {
+    "uuid": "2b284b85-a9ad-430c-9fbe-ffa0b2d8532d"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

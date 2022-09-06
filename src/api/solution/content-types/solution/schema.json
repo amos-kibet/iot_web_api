@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "solutions",
+  "info": {
+    "singularName": "solution",
+    "pluralName": "solutions",
+    "displayName": "Solutions",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "healthcare": {
+      "displayName": "healthcare",
+      "type": "component",
+      "repeatable": false,
+      "component": "healthcare-component.healthcare"
+    },
+    "manufacturing": {
+      "displayName": "manufacturing",
+      "type": "component",
+      "repeatable": false,
+      "component": "manufacturing-component.manufacturing"
+    },
+    "transportation": {
+      "displayName": "transportation",
+      "type": "component",
+      "repeatable": false,
+      "component": "transportation-component.transportation"
+    },
+    "education": {
+      "displayName": "education",
+      "type": "component",
+      "repeatable": false,
+      "component": "education-component.education"
+    },
+    "business": {
+      "displayName": "business",
+      "type": "component",
+      "repeatable": false,
+      "component": "business-component.business"
+    }
+  }
+}
