@@ -2,18 +2,18 @@
   "name": "web-api",
   "private": true,
   "version": "0.1.0",
-  "description": "IoTCE Web CMS API",
+  "description": "IoT Web CMS API",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.3.6",
-    "@strapi/plugin-users-permissions": "4.3.6",
     "@strapi/plugin-i18n": "4.3.6",
+    "@strapi/plugin-users-permissions": "4.3.6",
+    "@strapi/provider-upload-cloudinary": "^4.4.3",
+    "@strapi/strapi": "4.3.6",
     "pg": "8.6.0"
   },
   "author": {

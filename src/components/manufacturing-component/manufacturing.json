@@ -2,8 +2,13 @@
   "collectionName": "components_manufacturing_component_manufacturings",
   "info": {
     "displayName": "manufacturing",
-    "icon": "arrows-alt"
+    "icon": "arrows-alt",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "description": {
+      "type": "string"
+    }
+  }
 }

@@ -2,8 +2,13 @@
   "collectionName": "components_business_component_businesses",
   "info": {
     "displayName": "business",
-    "icon": "baby-carriage"
+    "icon": "baby-carriage",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "description": {
+      "type": "string"
+    }
+  }
 }

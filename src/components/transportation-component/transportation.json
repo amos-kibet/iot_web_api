@@ -2,8 +2,13 @@
   "collectionName": "components_transportation_component_transportation",
   "info": {
     "displayName": "transportation",
-    "icon": "apple-alt"
+    "icon": "apple-alt",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "description": {
+      "type": "string"
+    }
+  }
 }
