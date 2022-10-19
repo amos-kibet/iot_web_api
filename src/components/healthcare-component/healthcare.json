@@ -2,8 +2,13 @@
   "collectionName": "components_healthcare_component_healthcares",
   "info": {
     "displayName": "healthcare",
-    "icon": "archive"
+    "icon": "archive",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "description": {
+      "type": "string"
+    }
+  }
 }

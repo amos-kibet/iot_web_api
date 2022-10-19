@@ -2,8 +2,13 @@
   "collectionName": "components_education_component_educations",
   "info": {
     "displayName": "education",
-    "icon": "atlas"
+    "icon": "atlas",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "description": {
+      "type": "string"
+    }
+  }
 }
