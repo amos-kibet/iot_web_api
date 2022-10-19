@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_solutions_component_solutions",
+  "info": {
+    "displayName": "solutions",
+    "icon": "anchor",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "healthcare": {
+      "type": "string"
+    },
+    "business": {
+      "type": "string"
+    },
+    "transportation": {
+      "type": "string"
+    },
+    "education": {
+      "type": "string"
+    },
+    "manufacturing": {
+      "type": "string"
+    }
+  }
+}
