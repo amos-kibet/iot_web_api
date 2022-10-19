@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sample_solutions",
+  "info": {
+    "singularName": "sample-solution",
+    "pluralName": "sample-solutions",
+    "displayName": "Sample Solutions",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "solutions": {
+      "displayName": "solutions",
+      "type": "component",
+      "repeatable": true,
+      "component": "solutions-component.solutions"
+    }
+  }
+}
