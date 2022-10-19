@@ -2,7 +2,7 @@
   "name": "web-api",
   "private": true,
   "version": "0.1.0",
-  "description": "IoTCE Web CMS API",
+  "description": "IoT Web CMS API",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
